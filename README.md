@@ -30,11 +30,11 @@ Before running the code, ensure you have the following installed on your machine
 
 1. **Clone Repository**
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone git@github.com:avarenyk/15puzzle.git
    ```
 2. **Navigate to repo**
    ```sh
-   cd your-repo
+   cd 15puzzle
    ```
 3. **Install dependencies** 
    ```sh
